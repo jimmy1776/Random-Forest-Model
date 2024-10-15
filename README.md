@@ -1,1 +1,2 @@
 # Random-Forest-Model
+In this project, I used the machine learning technique of random forest to create a model which would predict whether a customer would leave a tip greater than 20%. This project was part of the Advanced Data Analytics course by Google. In the documents of this project, the models can be found as .pickel files. This is to avoid having to refit the model to the data every time the jupyter notebook is run.
